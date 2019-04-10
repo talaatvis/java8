@@ -13,7 +13,7 @@ public class DateTimeDemo {
 		
 		LocalDate d = LocalDate.now();
 		if(test.isBefore(d)) {
-			System.out.println("test is before");
+			System.out.println("test is before - updated from gitkraken" );
 
 		}
 		LocalTime t = LocalTime.now();
